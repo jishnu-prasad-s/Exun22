@@ -3,6 +3,10 @@
     margin: 0;
     padding: 0;
 }
+@font-face {
+    font-family: retrooo;
+    src: url("ARCADECLASSIC.TTF");
+  }
 
 body {
     background: rgb(72,155,255);
